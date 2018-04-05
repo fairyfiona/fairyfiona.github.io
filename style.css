@@ -92,8 +92,12 @@ ol {
 }
 
 @media(max-width:810px) {
+
     .container {
         width: 100%;
+    }
+    .info{
+        margin: 0 auto;
     }
     /* 自动换行*/
     .social {
