@@ -96,9 +96,6 @@ ol {
     .container {
         width: 100%;
     }
-    .info{
-        margin: 0 auto;
-    }
     /* 自动换行*/
     .social {
         word-wrap: break-word;
